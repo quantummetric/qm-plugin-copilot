@@ -4,7 +4,7 @@
     {
       "name": "quantum-metric",
       "description": "Analyze funnels, errors, friction and session replays in Quantum Metric to find and fix digital experience issues",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "source": "./"
     }
   ]
